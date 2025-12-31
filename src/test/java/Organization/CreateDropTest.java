@@ -7,6 +7,7 @@ public class CreateDropTest {
 	
 	public void dd() {
 		System.out.println("edit");
+		System.out.println("edit");
 	}
 
 }
